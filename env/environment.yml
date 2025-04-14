@@ -1,0 +1,17 @@
+name: issi_osse_ana
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter=1.1.1
+  - netCDF4=1.7.2
+  - numpy=2.2.1
+  - bokeh=3.6.2
+  - scipy=1.15.1
+  - pandas=2.2.3
+  - pytest=8.3.4
+  - Pathlib=1.0.1
+  - xarray=2025.1.1
+  - matplotlib=3.10.0
+  - metpy==1.6.3
+  - nbconvert=7.16.5
