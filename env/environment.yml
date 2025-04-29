@@ -15,3 +15,5 @@ dependencies:
   - matplotlib=3.10.0
   - metpy==1.6.3
   - nbconvert=7.16.5
+  - cartopy=0.24.1
+  - geopy=2.4.1
